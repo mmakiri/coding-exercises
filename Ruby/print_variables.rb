@@ -1,5 +1,3 @@
-# coding: utf-8
-
 muuttuja = "Tekstiä!"
 luku = 20
 
